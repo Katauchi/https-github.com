@@ -12,7 +12,7 @@ Unificar múltiples archivos CSV y permitir búsquedas eficientes mediante una A
 
 ## Endpoints
 - `/health` → estado del servicio
-- `/search?query=` → búsqueda de escuelas
+- `/searchquery=` → búsqueda de escuelas
 - `/schools/{id}` → detalle de escuela
 
 ## Ejecutar localmente
